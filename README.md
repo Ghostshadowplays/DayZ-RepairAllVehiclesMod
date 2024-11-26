@@ -1,2 +1,4 @@
 # DayZ-RepairAllVehiclesMod
- RepairAllVehiclesMod ofr DayZ
+ RepairAllVehiclesMod for DayZ
+
+Still needs work.
