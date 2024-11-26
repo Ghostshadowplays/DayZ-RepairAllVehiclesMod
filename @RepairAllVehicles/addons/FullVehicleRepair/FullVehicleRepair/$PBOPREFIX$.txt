@@ -1,0 +1,6 @@
+//<'FullVehicleRepair.pbo' properties via Mikero's dos tools, dll version 9.87>
+prefix=FullVehicleRepair;
+Mikero=DePbo.dll.9.87;
+version=24112615;
+//PboType=Arma Addon;
+//</properties>
